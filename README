@@ -2,12 +2,3 @@ Repository to test git.
 A: [This readme was created on github and will be cloned to desktop]
 
 B: [The hello.py was created on desktop and will be released to github, committed!]
-
-merge conflit happened:
-print("Hello from git bash! \n I did some changes")
-a = "this was created on website!"
-< HEAD (desktop)
-b = 5 #is it supposed to be 5 or 6?
-=======
-b = 7 (website)
-> 3a4714bf5ced57244e7fd7c5fca5f675ab428ecf (incoming)
